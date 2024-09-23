@@ -1,6 +1,6 @@
 # Laptop E-commerce
 
-E-commerce where you can search for laptops, filter them by brand and add them to a shopping cart.
+E-commercedonde puedes ver portátiles, filtrarlos por marca y añadirlos al carrito de la compra.
 
 ## Technologies used: 📕
 
